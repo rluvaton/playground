@@ -11,7 +11,7 @@ https://swimlanes.io
 "They introduce kernel bugs on purpose""
 https://lore.kernel.org/linux-nfs/YH+zwQgBBGUJdiVK@unreal/
 
- Suspense is Killing Me: Part 1
+The Suspense is Killing Me: Part 1
 https://blog.6nok.org/the-suspense-is-killing-me:-part-1/
 
 Starting a new digital identity
